@@ -1,0 +1,12 @@
+Sistema de Reserva de Hotel
+
+Requisitos funcionais:
+
+ - Login para 2 perfis: Atendente e Administrador.
+ - CRUD de Reserva.
+ - CRUD de Cliente.
+ - CRUD de Quartos.
+
+Requisitos não-funcionais:
+ - Emitir relatório de gastos no hotel de um cliente.
+ - Interface leve e amigável.
